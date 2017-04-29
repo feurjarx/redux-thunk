@@ -3,7 +3,7 @@ import {connect} from 'react-redux';
 import {
     contactsFetching,
     contactsRemoving
-} from './actions/contacts'
+} from '../actions/contacts'
 
 class ContactList extends Component {
 
